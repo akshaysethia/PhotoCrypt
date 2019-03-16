@@ -4,4 +4,4 @@
 # Logic used
   - Xor gates     
   - Python     
-  - Some basic knowledge of python 😜
+  - Some basic knowledge about python 😜
